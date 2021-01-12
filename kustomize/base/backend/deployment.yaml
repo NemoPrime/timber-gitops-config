@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: timber-backend
-        image: nbrown/timber-backend:v1.1
+        image: nbrown/timber-backend:8bf9118d4211a266b8d1bcb4bf3a4990b4ca9cbf
         ports:
         - containerPort: 8080
